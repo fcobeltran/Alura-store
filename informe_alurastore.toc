@@ -1,0 +1,23 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Metodología}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Fuentes de Datos}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Enfoque Analítico}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Herramientas Utilizadas}{3}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Análisis de Facturación}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Facturación Total por Tienda}{4}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Análisis de Categorías}{5}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Categorías Populares por Tienda}{5}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Análisis de Evaluación de Clientes}{7}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Promedio de Evaluación por Tienda}{7}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Análisis de Productos}{8}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Productos Más y Menos Vendidos}{8}{section.6.1}%
+\contentsline {chapter}{\numberline {7}Análisis de Costos de Envío}{9}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Costo Promedio de Envío por Tienda}{9}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Análisis Comparativo}{10}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Resumen de Indicadores}{10}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Análisis de Radar}{10}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Recomendación y Conclusiones}{12}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Recomendación Final}{12}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Consideraciones Estratégicas}{12}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Próximos Pasos}{12}{section.9.3}%
